@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas
+END
+cblas_globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/cblas_globals.c
+END
+cblas.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/cblas.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/Makefile
+END
+cblas_f77.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/cblas_f77.h
+END
+cblas_dgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/cblas_dgemm.c
+END
+xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/xerbla.c
+END
+cblas_xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/cblas_xerbla.c
+END
+cblas.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cblas/cblas.vcproj
+END

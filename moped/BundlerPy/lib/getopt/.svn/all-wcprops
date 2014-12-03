@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/getopt
+END
+getopt.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/getopt/getopt.vcproj
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/getopt/getopt.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/getopt/queue.h
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/getopt/getopt.c
+END

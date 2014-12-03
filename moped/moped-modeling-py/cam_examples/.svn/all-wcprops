@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped-modeling-py/cam_examples
+END
+cam_sx10_1600.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/22264/public/latest/moped/moped-modeling-py/cam_examples/cam_sx10_1600.yaml
+END
+dragonfly_wide_calibration.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/22264/public/latest/moped/moped-modeling-py/cam_examples/dragonfly_wide_calibration.yaml
+END
+kinect_calibration.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/22264/public/latest/moped/moped-modeling-py/cam_examples/kinect_calibration.yaml
+END
+dragonfly_calibration.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/22264/public/latest/moped/moped-modeling-py/cam_examples/dragonfly_calibration.yaml
+END

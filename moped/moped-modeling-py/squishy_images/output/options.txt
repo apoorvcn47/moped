@@ -1,0 +1,6 @@
+--match_table /home/ninja/rosbuild_ws/moped/moped-modeling-py/squishy_images/output/matches.init.txt
+--output bundle.out
+--output_all bundle_
+--output_dir /home/ninja/rosbuild_ws/moped/moped-modeling-py/squishy_images/output
+--intrinsics /home/ninja/rosbuild_ws/moped/moped-modeling-py/squishy_images/output/cam_params.txt
+--run_bundle

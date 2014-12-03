@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 39
+moped2_test
+moped2
+opencv.pc
+build
+bin
+
+END

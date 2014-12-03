@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22264/public/latest/moped/pyublas/src/test
+END
+sample_ext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/pyublas/src/test/sample_ext.cpp
+END
+strided_speed.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/pyublas/src/test/strided_speed.py
+END
+test_pyublas.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/pyublas/src/test/test_pyublas.py
+END
+sample.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/pyublas/src/test/sample.py
+END

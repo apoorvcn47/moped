@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ninja/rosbuild_ws/moped/moped3d/build/devel/setup.sh

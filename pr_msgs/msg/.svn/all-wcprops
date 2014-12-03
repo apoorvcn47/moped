@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/22264/public/latest/pr_msgs/msg
+END
+MaglevSense.msg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22264/public/latest/pr_msgs/msg/MaglevSense.msg
+END
+Trimesh.msg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22264/public/latest/pr_msgs/msg/Trimesh.msg
+END
+RailsState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/pr_msgs/msg/RailsState.msg
+END
+Action.msg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22264/public/latest/pr_msgs/msg/Action.msg
+END
+NameTypeValue.msg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/pr_msgs/msg/NameTypeValue.msg
+END
+MaglevFeedback.msg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/pr_msgs/msg/MaglevFeedback.msg
+END
+QR.msg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/22264/public/latest/pr_msgs/msg/QR.msg
+END
+DefineLocation.msg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/pr_msgs/msg/DefineLocation.msg
+END
+oldAppletCommand.msg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/pr_msgs/msg/oldAppletCommand.msg
+END
+PixelCoordinateList.msg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/pr_msgs/msg/PixelCoordinateList.msg
+END
+oldAppletState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/pr_msgs/msg/oldAppletState.msg
+END
+AppletState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22264/public/latest/pr_msgs/msg/AppletState.msg
+END
+PixelCoordinate.msg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/pr_msgs/msg/PixelCoordinate.msg
+END
+ObjectPoseList.msg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/pr_msgs/msg/ObjectPoseList.msg
+END
+Vector3D.msg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/22264/public/latest/pr_msgs/msg/Vector3D.msg
+END
+WAMJointState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/pr_msgs/msg/WAMJointState.msg
+END
+ForceRead.msg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/pr_msgs/msg/ForceRead.msg
+END
+ObjectPose.msg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/pr_msgs/msg/ObjectPose.msg
+END
+RotatedLaserScan.msg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/pr_msgs/msg/RotatedLaserScan.msg
+END
+OccGrid3D.msg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/pr_msgs/msg/OccGrid3D.msg
+END
+HandOff.msg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22264/public/latest/pr_msgs/msg/HandOff.msg
+END

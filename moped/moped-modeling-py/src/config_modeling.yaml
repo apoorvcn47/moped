@@ -1,0 +1,5 @@
+{ cam_file: /home/ninja/rosbuild_ws/moped/moped-modeling-py/cam_examples/canon_A590IS.yaml,
+  img_dir: /home/ninja/rosbuild_ws/moped/moped-modeling-py/squishy_images, 
+  options_file: /home/ninja/rosbuild_ws/moped/moped-modeling-py/src/options_modeling.yaml,
+  out_dir: /home/ninja/rosbuild_ws/moped/moped-modeling-py/squishy_images/output, 
+  output_xml_file: /home/ninja/rosbuild_ws/moped/moped-modeling-py/squishy_images/output/squishy.xml}

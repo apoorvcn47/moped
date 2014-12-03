@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/22264/public/latest/moped/moped-example
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped-example/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/moped-example/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/moped-example/Makefile
+END
+_launch.moped2
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/moped-example/_launch.moped2
+END
+ROS_NOBUILD
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/moped-example/ROS_NOBUILD
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped-example/manifest.xml
+END
+moped-example.launch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/moped-example/moped-example.launch
+END
+_launch.imagesenderlist
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/moped-example/_launch.imagesenderlist
+END

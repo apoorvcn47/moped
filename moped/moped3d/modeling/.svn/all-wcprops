@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22264/public/latest/moped/moped3d/modeling
+END
+sfm_view.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_view.m
+END
+cvundistort.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/cvundistort.h
+END
+rot2quat.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/rot2quat.m
+END
+matlab_cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/matlab_cv.h
+END
+default.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/default.m
+END
+sfm_alignment_gui.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_alignment_gui.m
+END
+draw_camera_2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/draw_camera_2d.m
+END
+sfm_get_error.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_get_error.m
+END
+sfm_filter_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_filter_idx.m
+END
+sfm_bundler.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_bundler.m
+END
+imundistort_mc.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/imundistort_mc.m
+END
+sfm_options.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_options.m
+END
+sfm_transform_ext.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_transform_ext.m
+END
+sfm_export_xml.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_export_xml.m
+END
+cvundistort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/cvundistort.cpp
+END
+format_rot.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/format_rot.m
+END
+matlab_cv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/matlab_cv.cpp
+END
+compile_all.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/compile_all.m
+END
+sfm_filter_pts.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_filter_pts.m
+END
+imundistort.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/imundistort.m
+END
+quat2rot.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/quat2rot.m
+END
+rot2rpy.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/rot2rpy.m
+END
+rpy2rot.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/rpy2rot.m
+END
+rodrigues.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/rodrigues.cpp
+END
+modeling.dox
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/modeling.dox
+END
+projectPts.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/projectPts.m
+END
+sfm_alignment_gui.fig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_alignment_gui.fig
+END
+example_cam.mat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/example_cam.mat
+END
+draw_camera.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/draw_camera.m
+END
+sfm_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/sfm_model.m
+END
+rotmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/rotmat.m
+END
+imundistort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/imundistort.cpp
+END
+quat2rot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/quat2rot.cpp
+END
+draw_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/draw_mask.m
+END
+imundistort_folder.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/moped3d/modeling/imundistort_folder.m
+END

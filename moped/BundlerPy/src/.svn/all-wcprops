@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/22264/public/latest/moped/BundlerPy/src
+END
+TwoFrameModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/TwoFrameModel.cpp
+END
+KeyMatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/KeyMatch.cpp
+END
+BundlerGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundlerGeometry.cpp
+END
+RadialUndistort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/RadialUndistort.cpp
+END
+ProcessBundle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/ProcessBundle.cpp
+END
+Bundle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Bundle.cpp
+END
+Bundle2Vis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Bundle2Vis.cpp
+END
+Decompose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Decompose.cpp
+END
+BaseApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BaseApp.h
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/keys.h
+END
+Epipolar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Epipolar.h
+END
+ImageData.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/ImageData.h
+END
+BoundingBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BoundingBox.h
+END
+Register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Register.cpp
+END
+LoadJPEG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/LoadJPEG.cpp
+END
+BruteForceSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BruteForceSearch.cpp
+END
+BundleAdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundleAdd.h
+END
+KeyMatchFull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/KeyMatchFull.cpp
+END
+Geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Geometry.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Makefile
+END
+BundlerApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundlerApp.cpp
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Camera.h
+END
+SifterUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/SifterUtil.h
+END
+Bundle2PMVS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Bundle2PMVS.cpp
+END
+RelativePose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/RelativePose.cpp
+END
+keys2a.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/keys2a.h
+END
+Distortion.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Distortion.h
+END
+MatchTracks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/MatchTracks.cpp
+END
+CreateMatchScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/CreateMatchScript.cpp
+END
+TwoFrameModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/TwoFrameModel.h
+END
+keys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/keys.cpp
+END
+Epipolar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Epipolar.cpp
+END
+BaseApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BaseApp.cpp
+END
+ImageData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/ImageData.cpp
+END
+ParameterBound.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/ParameterBound.h
+END
+Bundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Bundle.h
+END
+BoundingBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BoundingBox.cpp
+END
+BundleAdd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundleAdd.cpp
+END
+Decompose.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Decompose.h
+END
+ComputeTracks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/ComputeTracks.cpp
+END
+BaseGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BaseGeometry.cpp
+END
+BundleFast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundleFast.cpp
+END
+BundlerYaba.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundlerYaba.cpp
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Camera.cpp
+END
+Register.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Register.h
+END
+LoadJPEG.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/LoadJPEG.h
+END
+SifterUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/SifterUtil.cpp
+END
+BruteForceSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BruteForceSearch.h
+END
+Distortion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Distortion.cpp
+END
+keys2a.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/keys2a.cpp
+END
+Geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/Geometry.h
+END
+BundlerApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundlerApp.h
+END
+BundleIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundleIO.cpp
+END
+LinkDirection.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/LinkDirection.h
+END
+BundleTwo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/BundlerPy/src/BundleTwo.cpp
+END

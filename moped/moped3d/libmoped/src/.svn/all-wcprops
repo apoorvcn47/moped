@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src
+END
+highres.config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/highres.config.hpp
+END
+util.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/util.hpp
+END
+MopedBench.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/MopedBench.cpp
+END
+moped.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/moped.cpp
+END
+lowres.config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/lowres.config.hpp
+END
+ALGORITHM_TEMPLATE.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/ALGORITHM_TEMPLATE.hpp
+END
+prosilica.config.hpp.template
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/prosilica.config.hpp.template
+END
+MopedBench.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/MopedBench.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/config.hpp
+END
+Benchmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/Benchmark.cpp
+END
+GLOBAL_DISPLAY.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/GLOBAL_DISPLAY.hpp
+END
+STATUS_DISPLAY.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/STATUS_DISPLAY.hpp
+END
+Benchmark.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/Benchmark.hpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/filter
+END
+FILTER_PROJECTION_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/filter/FILTER_PROJECTION_CPU.hpp
+END
+FILTER_PROJECTION_DEPTH_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/filter/FILTER_PROJECTION_DEPTH_CPU.hpp
+END

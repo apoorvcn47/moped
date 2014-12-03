@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libmeanshift.so -o ../../lib/libmeanshift.so CMakeFiles/meanshift.dir/meanshiftpy.cpp.o -L/home/ninja/rosbuild_ws/moped/pyublas/pyublas -lboost_python -Wl,-rpath,/home/ninja/rosbuild_ws/moped/pyublas/pyublas 

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/22264/public/latest/moped/pyublas/src
+END
+siteconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/pyublas/src/siteconf.py
+END
+aksetup_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/pyublas/src/aksetup_helper.py
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/pyublas/src/Makefile.in
+END
+distribute_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/pyublas/src/distribute_setup.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/pyublas/src/setup.py
+END
+configure.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/pyublas/src/configure.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/pyublas/src/PKG-INFO
+END
+README_SETUP.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/pyublas/src/README_SETUP.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/pyublas/src/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/22264/public/latest/moped/pyublas/src/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/pyublas/src/Makefile
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22264/public/latest/moped/pyublas/src/setup.cfg
+END

@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdcoefct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jpeglib.h
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdphuff.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcmainct.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jidctred.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdmainct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcapimin.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdpostct.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdapimin.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdcolor.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jmemsys.h
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcdctmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jddctmgr.c
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdatadst.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jerror.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jchuff.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdtrans.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jfdctfst.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jerror.h
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcmaster.c
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jmemnobs.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jidctfst.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jchuff.h
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdhuff.h
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcparam.c
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcinit.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jquant1.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jquant2.c
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcphuff.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdct.h
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jccolor.c
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdatasrc.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jmemmgr.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcsample.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdmarker.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jfdctflt.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jmorecfg.h
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcapistd.c
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jinclude.h
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdapistd.c
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jctrans.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jversion.h
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jpegint.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jidctint.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jcprepct.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jutils.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdmerge.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/jpeg/src/jdinput.c
+END

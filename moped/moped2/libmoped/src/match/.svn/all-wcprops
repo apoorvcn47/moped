@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/match
+END
+MATCH_HASH_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/match/MATCH_HASH_CPU.hpp
+END
+MATCH_HASH2_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/match/MATCH_HASH2_CPU.hpp
+END
+MATCH_ANN_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/match/MATCH_ANN_CPU.hpp
+END
+MATCH_DISPLAY.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/match/MATCH_DISPLAY.hpp
+END
+MATCH_FLANN_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/match/MATCH_FLANN_CPU.hpp
+END
+MATCH_BRUTE_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/match/MATCH_BRUTE_CPU.hpp
+END

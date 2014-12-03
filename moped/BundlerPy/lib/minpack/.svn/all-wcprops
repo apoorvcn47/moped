@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack
+END
+qrsolv.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/qrsolv.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/Makefile
+END
+fdjac2.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/fdjac2.f
+END
+lmdif.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/lmdif.f
+END
+lmpar.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/lmpar.f
+END
+lmdif1.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/lmdif1.f
+END
+qrfac.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/qrfac.f
+END
+enorm.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/enorm.f
+END
+dpmpar.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/minpack/dpmpar.f
+END

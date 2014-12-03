@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/sfm-driver
+END
+sfm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/sfm-driver/sfm.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/sfm-driver/Makefile
+END
+sfm-driver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/sfm-driver/sfm-driver.vcproj
+END
+sfm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/sfm-driver/sfm.c
+END

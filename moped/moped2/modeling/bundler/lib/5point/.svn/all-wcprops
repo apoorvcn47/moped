@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point
+END
+5point.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/5point.h
+END
+poly1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/poly1.c
+END
+poly3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/poly3.c
+END
+poly1.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/poly1.h
+END
+poly3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/poly3.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/Makefile
+END
+5point.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/5point.c
+END
+5point.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/5point/5point.vcproj
+END

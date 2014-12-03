@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/22264/public/latest/moped/pyublas
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/pyublas/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/pyublas/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22264/public/latest/moped/pyublas/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/pyublas/manifest.xml
+END

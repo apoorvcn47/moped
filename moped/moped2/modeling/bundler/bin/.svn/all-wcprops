@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/22264/public/latest/moped/BundlerPy/bin
+END
+RadialUndistort
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/bin/RadialUndistort
+END
+extract_focal.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/bin/extract_focal.pl
+END
+jhead
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/moped/BundlerPy/bin/jhead
+END
+Bundle2Vis
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/BundlerPy/bin/Bundle2Vis
+END
+Bundle2PMVS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/BundlerPy/bin/Bundle2PMVS
+END
+ToSift.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/BundlerPy/bin/ToSift.sh
+END

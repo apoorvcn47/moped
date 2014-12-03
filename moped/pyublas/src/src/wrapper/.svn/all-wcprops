@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper
+END
+sparse_build.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper/sparse_build.cpp
+END
+sparse_execute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper/sparse_execute.cpp
+END
+array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper/array.hpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper/main.cpp
+END
+helpers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper/helpers.hpp
+END
+converters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper/converters.cpp
+END
+meta.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/pyublas/src/src/wrapper/meta.hpp
+END

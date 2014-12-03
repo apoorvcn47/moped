@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/sample
+END
+query.pts
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/sample/query.pts
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/sample/Makefile
+END
+ann_sample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/sample/ann_sample.cpp
+END
+data.pts
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/sample/data.pts
+END
+sample.save
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/sample/sample.save
+END

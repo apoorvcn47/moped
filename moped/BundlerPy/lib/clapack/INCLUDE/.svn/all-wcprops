@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INCLUDE
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INCLUDE/f2c.h
+END
+blaswrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INCLUDE/blaswrap.h
+END
+clapack.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INCLUDE/clapack.h
+END

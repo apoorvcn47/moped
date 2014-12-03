@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/22264/public/latest/moped/BundlerPy
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22264/public/latest/moped/BundlerPy/INSTALL.txt
+END
+RunBundlerCustom.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/RunBundlerCustom.sh
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/manifest.xml
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/moped/BundlerPy/CHANGELOG
+END
+RunBundler.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/BundlerPy/RunBundler.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/BundlerPy/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/22264/public/latest/moped/BundlerPy/Makefile
+END
+Bundler.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/BundlerPy/Bundler.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/depthfilter
+END
+DEPTHFILTER_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/depthfilter/DEPTHFILTER_CPU.hpp
+END
+DEPTHFILTER_IGNORE_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/depthfilter/DEPTHFILTER_IGNORE_CPU.hpp
+END
+DEPTHFILTER_CPU.hpp.backup
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/22264/public/latest/moped/moped3d/libmoped/src/depthfilter/DEPTHFILTER_CPU.hpp.backup
+END

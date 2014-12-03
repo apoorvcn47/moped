@@ -1,0 +1,6 @@
+--match_table /home/ninja/rosbuild_ws/moped/moped-modeling-py/examples/model_tuscan/matches.init.txt
+--output bundle.out
+--output_all bundle_
+--output_dir /home/ninja/rosbuild_ws/moped/moped-modeling-py/examples/model_tuscan
+--intrinsics /home/ninja/rosbuild_ws/moped/moped-modeling-py/examples/model_tuscan/cam_params.txt
+--run_bundle

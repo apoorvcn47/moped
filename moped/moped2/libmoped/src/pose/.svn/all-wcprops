@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose
+END
+RANSAC_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/RANSAC_base.hpp
+END
+POSE_RANSAC_LBFGS_REPROJECTION_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_RANSAC_LBFGS_REPROJECTION_CPU.hpp
+END
+POSE_RANSAC_LM_DIFF_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_RANSAC_LM_DIFF_CPU.hpp
+END
+POSE_LM_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_LM_CPU.hpp
+END
+POSE_RANSAC_LM_DIFF_REPROJECTION_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_RANSAC_LM_DIFF_REPROJECTION_CPU.hpp
+END
+POSE_GRAD_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_GRAD_CPU.hpp
+END
+POSE_LBFGS_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_LBFGS_CPU.hpp
+END
+POSE_DISPLAY.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_DISPLAY.hpp
+END
+POSE_RANSAC_GRAD_DIFF_REPROJECTION_CPU.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/pose/POSE_RANSAC_GRAD_DIFF_REPROJECTION_CPU.hpp
+END

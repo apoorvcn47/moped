@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/pyublas/include/pyublas
+END
+elementwise_op.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/pyublas/include/pyublas/elementwise_op.hpp
+END
+generic_ublas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22264/public/latest/moped/pyublas/include/pyublas/generic_ublas.hpp
+END
+python_helpers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/pyublas/include/pyublas/python_helpers.hpp
+END
+numpy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/pyublas/include/pyublas/numpy.hpp
+END

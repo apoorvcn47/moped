@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22264/public/latest/moped/BundlerPy/include
+END
+lapack.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/BundlerPy/include/lapack.h
+END
+minpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/BundlerPy/include/minpack.h
+END
+cblas.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/BundlerPy/include/cblas.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/BundlerPy/include/types.h
+END

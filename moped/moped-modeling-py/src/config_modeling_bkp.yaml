@@ -1,0 +1,3 @@
+{cam_file: /home/ninja/rosbuild_ws/moped/moped-modeling-py/cam_examples/cam_sx10_1600.yaml,
+  img_dir: /home/ninja/rosbuild_ws/moped/moped-modeling-py/examples/rice_tuscan, options_file: /home/ninja/rosbuild_ws/moped/moped-modeling-py/src/options_modeling.yaml,
+  out_dir: /home/ninja/rosbuild_ws/moped/moped-modeling-py/examples/model_tuscan, output_xml_file: /home/ninja/rosbuild_ws/moped/moped-modeling-py/examples/tuscan.moped.xml}

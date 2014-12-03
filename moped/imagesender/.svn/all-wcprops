@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/22264/public/latest/moped/imagesender
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/imagesender/manifest.xml
+END
+imagesenderlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/imagesender/imagesenderlist.py
+END
+_launch.imagesenderlist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/imagesender/_launch.imagesenderlist
+END
+imagesender.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/imagesender/imagesender.py
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/imagesender/mainpage.dox
+END
+_launch.imagesender
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/imagesender/_launch.imagesender
+END
+_launch.imagesendertest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/imagesender/_launch.imagesendertest
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/imagesender/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/imagesender/Makefile
+END
+imagesender.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/imagesender/imagesender.pyc
+END
+ROS_NOBUILD
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/imagesender/ROS_NOBUILD
+END

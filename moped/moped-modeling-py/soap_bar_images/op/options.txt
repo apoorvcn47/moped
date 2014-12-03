@@ -1,0 +1,6 @@
+--match_table /home/ninja/rosbuild_ws/moped/moped-modeling-py/soap_bar_images/op/matches.init.txt
+--output bundle.out
+--output_all bundle_
+--output_dir /home/ninja/rosbuild_ws/moped/moped-modeling-py/soap_bar_images/op
+--intrinsics /home/ninja/rosbuild_ws/moped/moped-modeling-py/soap_bar_images/op/cam_params.txt
+--run_bundle

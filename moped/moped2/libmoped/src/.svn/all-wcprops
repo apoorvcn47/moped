@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src
+END
+ALGORITHM_TEMPLATE.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/ALGORITHM_TEMPLATE.hpp
+END
+prosilica.config.hpp.template
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/prosilica.config.hpp.template
+END
+GLOBAL_DISPLAY.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/GLOBAL_DISPLAY.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/config.hpp
+END
+STATUS_DISPLAY.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/STATUS_DISPLAY.hpp
+END
+highres.config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/highres.config.hpp
+END
+util.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/util.hpp
+END
+lowres.config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/lowres.config.hpp
+END
+moped.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/src/moped.cpp
+END

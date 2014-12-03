@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack
+END
+hybrj1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/hybrj1.c
+END
+chkder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/chkder.c
+END
+lmstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/lmstr.c
+END
+dogleg.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/dogleg.c
+END
+lmder.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/lmder.c
+END
+cminpack.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/cminpack.vcproj
+END
+hybrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/hybrd.c
+END
+lmpar.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/lmpar.c
+END
+lmdif1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/lmdif1.c
+END
+hybrj.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/hybrj.c
+END
+r1updt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/r1updt.c
+END
+enorm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/enorm.c
+END
+lmstr1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/lmstr1.c
+END
+dpmpar.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/dpmpar.c
+END
+lmder1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/lmder1.c
+END
+qform.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/qform.c
+END
+rwupdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/rwupdt.c
+END
+qrsolv.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/qrsolv.c
+END
+minpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/minpack.h
+END
+fdjac1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/fdjac1.c
+END
+r1mpyq.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/r1mpyq.c
+END
+fdjac2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/fdjac2.c
+END
+hybrd1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/hybrd1.c
+END
+lmdif.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/lmdif.c
+END
+qrfac.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/cminpack/qrfac.c
+END

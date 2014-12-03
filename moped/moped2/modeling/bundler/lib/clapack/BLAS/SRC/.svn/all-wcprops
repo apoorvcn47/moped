@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC
+END
+dcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dcopy.c
+END
+dsyr2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsyr2k.c
+END
+blaswrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/blaswrap.h
+END
+dger.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dger.c
+END
+dnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dnrm2.c
+END
+dtbsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtbsv.c
+END
+dtrmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtrmm.c
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/daxpy.c
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dscal.c
+END
+dtrsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtrsm.c
+END
+dgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dgemm.c
+END
+dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dspr2.c
+END
+dtpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtpmv.c
+END
+ddot.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/ddot.c
+END
+dtrmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtrmv.c
+END
+dsyrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsyrk.c
+END
+drotmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/drotmg.c
+END
+dgbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dgbmv.c
+END
+dtpsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtpsv.c
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/lsame.c
+END
+icamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/icamax.c
+END
+dgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dgemv.c
+END
+dtrsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtrsv.c
+END
+idamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/idamax.c
+END
+dzasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dzasum.c
+END
+dsyr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsyr2.c
+END
+drot.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/drot.c
+END
+dasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dasum.c
+END
+dsbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsbmv.c
+END
+dsdot.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsdot.c
+END
+dswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dswap.c
+END
+drotg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/drotg.c
+END
+dsyr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsyr.c
+END
+isamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/isamax.c
+END
+drotm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/drotm.c
+END
+izamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/izamax.c
+END
+dspmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dspmv.c
+END
+dsymm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsymm.c
+END
+dcabs1.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dcabs1.c
+END
+dsymv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dsymv.c
+END
+dspr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dspr.c
+END
+dtbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dtbmv.c
+END
+dznrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/dznrm2.c
+END
+xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/BLAS/SRC/xerbla.c
+END

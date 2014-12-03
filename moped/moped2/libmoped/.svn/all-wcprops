@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/22264/public/latest/moped/moped2/libmoped
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/README.TXT
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/Makefile
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22264/public/latest/moped/moped2/libmoped/license.txt
+END

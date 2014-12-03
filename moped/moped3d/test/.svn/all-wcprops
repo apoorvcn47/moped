@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/22264/public/latest/moped/moped3d/test
+END
+run_test_moped.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/moped3d/test/run_test_moped.py
+END

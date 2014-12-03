@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/22264/public/latest/moped/moped3d
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/moped3d/mainpage.dox
+END
+rosdoc.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/moped/moped3d/rosdoc.yaml
+END
+startmoped.launch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/moped3d/startmoped.launch
+END
+moped3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/moped/moped3d/moped3d.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/moped3d/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22264/public/latest/moped/moped3d/Makefile
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/22264/public/latest/moped/moped3d/readme
+END
+rosdep.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22264/public/latest/moped/moped3d/rosdep.yaml
+END
+download_models.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped3d/download_models.sh
+END
+startkinect.launch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22264/public/latest/moped/moped3d/startkinect.launch
+END
+moped_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/moped3d/moped_test.cpp
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22264/public/latest/moped/moped3d/manifest.xml
+END
+moped.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22264/public/latest/moped/moped3d/moped.cpp
+END
+find_opencv2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/moped3d/find_opencv2.sh
+END

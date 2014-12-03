@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/f2c.h
+END
+blaswrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/blaswrap.h
+END
+ilaver.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/ilaver.c
+END
+dlamchtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/dlamchtst.c
+END
+dlamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/dlamch.c
+END
+dsecndtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/dsecndtst.c
+END
+lsametst.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/lsametst.c
+END
+tstiee.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/tstiee.c
+END
+dsecnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/dsecnd.c
+END
+LAPACK_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/LAPACK_version.c
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/lsame.c
+END
+slamchtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/slamchtst.c
+END
+secondtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/secondtst.c
+END
+slamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/slamch.c
+END
+second.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/clapack/INSTALL/second.c
+END

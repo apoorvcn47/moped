@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/zlib/lib
+END
+zlib-bcc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/zlib/lib/zlib-bcc.lib
+END
+zlib.def
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/zlib/lib/zlib.def
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/zlib/lib/zlib.lib
+END

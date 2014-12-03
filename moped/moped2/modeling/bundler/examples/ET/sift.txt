@@ -1,0 +1,9 @@
+/usr/bin/mogrify -format pgm ./et000.jpg; ../../bin/sift < ./et000.pgm > ./et000.key; gzip -f ./et000.key; rm ./et000.pgm
+/usr/bin/mogrify -format pgm ./et001.jpg; ../../bin/sift < ./et001.pgm > ./et001.key; gzip -f ./et001.key; rm ./et001.pgm
+/usr/bin/mogrify -format pgm ./et002.jpg; ../../bin/sift < ./et002.pgm > ./et002.key; gzip -f ./et002.key; rm ./et002.pgm
+/usr/bin/mogrify -format pgm ./et003.jpg; ../../bin/sift < ./et003.pgm > ./et003.key; gzip -f ./et003.key; rm ./et003.pgm
+/usr/bin/mogrify -format pgm ./et004.jpg; ../../bin/sift < ./et004.pgm > ./et004.key; gzip -f ./et004.key; rm ./et004.pgm
+/usr/bin/mogrify -format pgm ./et005.jpg; ../../bin/sift < ./et005.pgm > ./et005.key; gzip -f ./et005.key; rm ./et005.pgm
+/usr/bin/mogrify -format pgm ./et006.jpg; ../../bin/sift < ./et006.pgm > ./et006.key; gzip -f ./et006.key; rm ./et006.pgm
+/usr/bin/mogrify -format pgm ./et007.jpg; ../../bin/sift < ./et007.pgm > ./et007.key; gzip -f ./et007.key; rm ./et007.pgm
+/usr/bin/mogrify -format pgm ./et008.jpg; ../../bin/sift < ./et008.pgm > ./et008.key; gzip -f ./et008.key; rm ./et008.pgm

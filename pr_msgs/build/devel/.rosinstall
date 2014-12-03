@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ninja/rosbuild_ws/pr_msgs/build/devel/setup.sh

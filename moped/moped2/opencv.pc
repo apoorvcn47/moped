@@ -1,0 +1,9 @@
+prefix=/opt/ros/hydro/share/opencv2
+libdir=/opt/ros/hydro/share/opencv2/opencv/include
+includedir=/opt/ros/hydro/share/opencv2/opencv/lib
+
+Name: OpenCV
+Description: OpenCV as built by ROS
+Version: 2.0
+Libs: 
+CFlags: 

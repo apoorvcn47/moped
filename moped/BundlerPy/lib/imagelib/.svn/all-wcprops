@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib
+END
+lerp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/lerp.c
+END
+triangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/triangle.c
+END
+horn.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/horn.c
+END
+lerp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/lerp.h
+END
+triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/triangle.h
+END
+binimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/binimage.c
+END
+horn.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/horn.h
+END
+binimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/binimage.h
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/image.c
+END
+poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/poly.c
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/image.h
+END
+affine.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/affine.c
+END
+poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/poly.h
+END
+imagelib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/imagelib.vcproj
+END
+affine.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/affine.h
+END
+pyramid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/pyramid.c
+END
+fileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/fileio.c
+END
+pyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/pyramid.h
+END
+transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/transform.c
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/fileio.h
+END
+homography.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/homography.c
+END
+color.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/color.c
+END
+triangulate.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/triangulate.c
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/transform.h
+END
+homography.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/homography.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/color.h
+END
+triangulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/triangulate.h
+END
+dmap-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/dmap-io.h
+END
+transform3D.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/transform3D.c
+END
+transform3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/transform3D.h
+END
+canny.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/canny.c
+END
+pyramid-io.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/pyramid-io.c
+END
+fmatrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/fmatrix.c
+END
+transform-opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/transform-opt.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/util.c
+END
+canny.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/canny.h
+END
+pyramid-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/pyramid-io.h
+END
+fmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/fmatrix.h
+END
+transform-opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/transform-opt.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/util.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/defines.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/Makefile
+END
+morphology.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/morphology.c
+END
+binvolume.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/binvolume.c
+END
+morphology.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/morphology.h
+END
+binvolume.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/binvolume.h
+END
+tps.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/tps.c
+END
+qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/qsort.c
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/resample.c
+END
+pad.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/pad.h
+END
+tps.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/tps.h
+END
+qsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/qsort.h
+END
+resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/resample.h
+END
+bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/bmp.c
+END
+fit.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/fit.c
+END
+bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/bmp.h
+END
+pgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/pgm.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/filter.c
+END
+fit.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/fit.h
+END
+vanish.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/vanish.c
+END
+pgm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/pgm.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/filter.h
+END
+vanish.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/imagelib/vanish.h
+END

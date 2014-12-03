@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc
+END
+installing.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/installing.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/conf.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/Makefile
+END
+cpptypes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/cpptypes.rst
+END
+faq.rst
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/faq.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/index.rst
+END
+wrapping.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/wrapping.rst
+END
+converters.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/converters.rst
+END
+pymodule.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22264/public/latest/moped/pyublas/src/doc/pymodule.rst
+END

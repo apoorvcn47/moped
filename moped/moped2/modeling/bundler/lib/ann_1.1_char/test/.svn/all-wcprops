@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/Makefile
+END
+test1.save
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test1.save
+END
+test2-data.pts
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test2-data.pts
+END
+test2.save
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test2.save
+END
+rand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/rand.cpp
+END
+test1.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test1.in
+END
+test2.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test2.in
+END
+test1-query.pts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test1-query.pts
+END
+test2-query.pts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test2-query.pts
+END
+rand.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/rand.h
+END
+ann_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/ann_test.cpp
+END
+test1-data.pts
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/22264/public/latest/moped/BundlerPy/lib/ann_1.1_char/test/test1-data.pts
+END
