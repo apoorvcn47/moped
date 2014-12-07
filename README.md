@@ -3,6 +3,9 @@ moped
 Additional Python libraries required:
 - numpy
 - scipy
+- gfortran 
+- libblas-dev 
+- liblapack-dev
 
 convert all the extentions of sample images from .JPG to .jpg
 
